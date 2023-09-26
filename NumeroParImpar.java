@@ -21,6 +21,7 @@ public class NumeroParImpar {
         } else {
             System.out.println("El numero "+ParImpar+ " es impar" );
         }
+        numero.close(); 
         
     
     }
